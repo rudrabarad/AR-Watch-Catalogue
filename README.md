@@ -1,7 +1,7 @@
 # AR-Watch-Catalogue
 AR Watch Catalogue is an Application which works on principles of Augmented Reality. It can be used to check and try different watches virtually without even wearing them physically. :watch:
 
-<img align="right" alt="GIF" height=360 src="https://selfngodelhi.files.wordpress.com/2016/01/c9bd7a16beae0bd10b56eb511434b73c.gif" />
+<img align="right" alt="GIF" height=360 src="https://github.com/rudrabarad/AR-Watch-Catalogue/blob/main/watch.gif" />
 
 ## Contents of the Repository
 - [Application Screenshots](https://github.com/rudrabarad/AR-Watch-Catalogue/tree/main/Application%20Screenshots)
