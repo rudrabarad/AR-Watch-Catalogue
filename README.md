@@ -7,7 +7,7 @@ AR Watch Catalogue is an Application which works on principles of Augmented Real
 - [Application Screenshots](https://github.com/rudrabarad/AR-Watch-Catalogue/tree/main/Application%20Screenshots)
 - [Resources](https://github.com/rudrabarad/AR-Watch-Catalogue/tree/main/Resources)
 - [Readme](https://github.com/rudrabarad/AR-Watch-Catalogue#readme)
-- [Source Code](https://github.com/rudrabarad/AR-Watch-Catalogue#scource-code)
+- [Source Code](https://github.com/rudrabarad/AR-Watch-Catalogue#source-code)
 - [Documentation/Report](https://github.com/rudrabarad/AR-Watch-Catalogue#documentation)
 - [Presentation](https://github.com/rudrabarad/AR-Watch-Catalogue/blob/main/PRESENTATION.pptx)
 - [Video Demonstration](https://github.com/rudrabarad/AR-Watch-Catalogue#video)
